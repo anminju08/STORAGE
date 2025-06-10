@@ -1,0 +1,18 @@
+.
+├── FastAPI
+│   ├── Dockerfile
+│   ├── README.md
+│   ├── app
+│   │   ├── __init__.py
+│   │   ├── crud
+│   │   ├── main.py
+│   │   ├── models
+│   │   ├── routers
+│   │   ├── schemas
+│   │   ├── static
+│   │   └── templates
+│   ├── docker-compose.yml
+│   └── requirements.txt
+└── structure.txt
+
+9 directories, 7 files
